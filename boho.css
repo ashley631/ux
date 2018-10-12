@@ -1,0 +1,184 @@
+html {
+    color: rgb(67, 209, 231);
+    text-align: center;
+}
+
+header {
+    color: rgb(241, 163, 137);
+    font-size: 40px;
+}
+
+a {
+    color: rgb(78, 58, 58);
+    padding: 20px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: rgb(227, 140, 108);
+    color: white;
+    padding: 10px;
+}
+
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(227, 140, 108);
+}
+
+p {
+    font-size: 17px;
+    color: rgb(78, 58, 58);
+    font-family: 'Comfortaa', cursive;
+}
+
+.free {
+    font-family: 'Comfortaa', cursive;
+    color:  rgb(67, 209, 231);
+}
+
+.bestsell {
+    padding: 0px;
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+
+/*@media screen and (min-width: 760px) {
+
+    html {
+        font-family: 'Comfortaa', cursive;
+    }
+    nav {
+            display: flex;
+            color: rgb(241, 163, 137);
+            justify-content: space-between;
+            font-size: 20px;
+            align-items: center;
+            padding: 30px;
+    
+        }
+    
+    a {
+        color: rgb(241, 163, 137);
+        text-decoration:none;
+        align-content: center;
+        display: flex;
+    
+    }
+    
+    h1 {
+        color: black;
+        text-align: center;
+    }
+    
+    h3, p {
+        text-align: center; 
+        color: #33ccff;
+        align-content: center;
+        
+    }
+    
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    
+    
+    
+    p {
+        text-align: center;
+        color: #33ccff;
+        height : 60%;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;   
+    
+    }
+    
+    img {
+        width: 450px;
+        height: auto;
+    }
+
+    a.etsy {
+        padding: 20px
+        transform-translate(50%);
+        text-align: center;
+    }
+
+}
+
+html {
+    font-family: 'Comfortaa', cursive;
+}
+nav {
+        display: flex;
+        color: rgb(241, 163, 137);
+        justify-content: space-between;
+        font-size: 20px;
+        align-items: center;
+        padding: 30px;
+
+    }
+
+a {
+    color: rgb(241, 163, 137);
+    text-decoration:none;
+    align-content: center;
+    display: flex;
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h3, p {
+    text-align: center; 
+    color: #33ccff;
+    align-content: center;
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+p {
+    text-align: center;
+    color: #33ccff;
+    height : 80%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;   
+
+}
+
+img {
+    width: 450px;
+    height: auto;
+}/*
+
+
+
+
+
+
